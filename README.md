@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on [Ocean microplastic concentrations](https://github.com/DerikVo/DSI_project_4)
+- I’m currently working on [Brain_tumor_classification ](https://github.com/DerikVo/Brain_tumor_classification)
 
-- I’m currently learning **Time series predictive models**
+- I’m currently learning **Transfer learning with tensorflow's Keras**
 
 - I’m looking to collaborate on **Projects about Neurofibroma**
 
