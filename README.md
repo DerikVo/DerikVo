@@ -9,7 +9,7 @@
 
 - All of my projects are available at [https://github.com/DerikVo](https://github.com/DerikVo)
 
-- You can find my portfolio here: [Portfolio]([/todo](https://derikvo.github.io/Porfolio/))
+- You can find my portfolio here: [Portfolio](https://derikvo.github.io/Porfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
