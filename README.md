@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on [cincinnati reds analysis](https://github.com/DerikVo/reds_analysis)
+- I’m currently working on [baseball analysis](https://github.com/DerikVo/reds_analysis)
 
 - I’m currently learning **Sports analytics**
 
