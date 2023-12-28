@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on [Learning PostgreSQL](https://www.postgresql.org/)
+- I’m currently working on [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main)
 
 - I’m currently learning **Sports analytics**
 
