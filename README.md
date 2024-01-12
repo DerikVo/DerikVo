@@ -9,7 +9,7 @@
 
 - I’m looking to collaborate on **Projects about Neurofibroma**
 
-- All of my projects are available at [https://github.com/DerikVo](https://github.com/DerikVo)
+- All of my projects are available at [https://github.com/DerikVo](https://github.com/DerikVo?tab=repositories&q=&type=public&language=&sort=)
 
 - You can find my portfolio here: [Portfolio](https://derikvo.github.io/Porfolio/)
 
