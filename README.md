@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main)
+- I’m currently working on a Private project
 
-- I’m currently learning **Sports analytics**
+- I’m currently learning [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main)
 
 - My favorite project was [Brain_tumor_classification ](https://github.com/DerikVo/Brain_tumor_classification)
 
