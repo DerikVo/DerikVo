@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on a [illegal dumping visualizer](https://github.com/DerikVo/San_Jose_illegal_Dumping)
+- I’m currently working on a [illegal dumping data project](https://github.com/DerikVo/San_Jose_illegal_Dumping)
 
 - I’m currently learning [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main) and [Data Engineering](https://github.com/DerikVo/data-engineering-zoomcamp)
 
