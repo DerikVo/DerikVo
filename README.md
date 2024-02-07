@@ -3,7 +3,7 @@
 
 - I’m currently working on a Private project
 
-- I’m currently learning [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main)
+- I’m currently learning [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main) and [Data Engineering](https://github.com/DerikVo/data-engineering-zoomcamp)
 
 - My favorite project was [Brain_tumor_classification ](https://github.com/DerikVo/Brain_tumor_classification)
 
