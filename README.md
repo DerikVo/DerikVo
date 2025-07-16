@@ -1,11 +1,7 @@
 <h1 align="center">Hello, I am Derik Vo</h1>
 <h3 align="center">I am a special education paraeducator turned data scientist</h3>
 
-- I’m currently working on a [illegal dumping data project](https://github.com/DerikVo/San_Jose_illegal_Dumping)
-
-- I’m currently learning [Learning PostgreSQL](https://github.com/DerikVo/PostgreSQL/tree/main) and [Data Engineering](https://github.com/DerikVo/data-engineering-zoomcamp)
-
-- My favorite project was [Brain_tumor_classification ](https://github.com/DerikVo/Brain_tumor_classification)
+- I’m currently working on a [Intergrating AI and ML at Climate Policy Iniative]([https://github.com/DerikVo/San_Jose_illegal_Dumping](https://www.climatepolicyinitiative.org/building-al-ml-tools-to-track-public-development-banks-climate-ambition/))
 
 - I’m looking to collaborate on **Projects about Neurofibroma**
 
